@@ -1,4 +1,4 @@
-import { Avatar } from "@mantine/core";
+// import { Avatar } from "@mantine/core";
 import bootstrap from "../assets/Icons/Bootstrap.png"
 import css from "../assets/Icons/CSS.png"
 import expressjs from "../assets/Icons/Express JS.png"
