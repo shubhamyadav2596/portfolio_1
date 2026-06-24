@@ -1,5 +1,6 @@
 import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandYoutube } from "@tabler/icons-react";
 import Globussoft from "./assets/Globussoft.png";
+import leadangel from "./assets/leadangel.webp";
 import netflix from "./assets/Netflix.png"
 import movie from "./assets/movie.png"
 import youtube from "./assets/yt.png"
@@ -11,8 +12,8 @@ import ecomMern from "./assets/ecom_mern.png"
 
 const Info = {
     name: "Shubham Yadav",
-    stack: ["Software Engineer", "Frontend Developer", "Open Source Contributor"],
-    bio: "I am a Frontend Developer with a passion for building responsive, user-friendly web interfaces. Proficient in HTML, CSS, JavaScript, and modern frameworks like React. Strong focus on UI/UX design, optimizing user experiences, and collaborating with cross-functional teams to deliver seamless web applications. Let's connect and create something amazing together"
+    stack: ["Software Engineer","Full Stack Developer", "Frontend Developer"],
+    bio: "Full Stack Developer with 2 years+ of experience as a Frontend Developer. Skilled in React, JavaScript, HTML, and CSS with a focus on performance and accessibility. Familiar with backend development using Node.js, Express.js, and MongoDB. Able to collaborate effectively in cross-functional teams and agile environments. Committed to writing clean, maintainable code and delivering seamless user experiences."
 }
 
 
@@ -106,12 +107,20 @@ const socialLinks = [
 const ExperienceInfo = [
     {
         role: "UI/UX Developer",
-        company: "Globussoft",
+        company: "Globussoft Tech. pvt ltd",
         date: "Jan 2023 - Aug 2024",
         desc: "A passionate Frontend Developer from Bhilai, Chhattisgarh, with 1.6 years of experience at Globussoft Technology Pvt Ltd. Skilled in creating intuitive and responsive user interfaces using modern front-end technologies. Enthusiastic about design trends, innovative tools, and crafting impactful digital experiences.",
         skills: ["React JS", "Redux", "javascript", "TailwindCss", "Bootstrap"],
         logo: Globussoft
     },
+    {
+        role: "UI Developer",
+        Company: "Vyakar Tech. pvt ltd",
+        date: "Mar 2025 - Oct 2025",
+        desc: "Worked as a UI developer at Vyakar Tech Private Limited, contributing to the development of user interfaces for web applications. Collaborated with cross-functional teams to implement design mockups and enhance user experience. Gained hands-on experience with modern frontend technologies and agile development methodologies.",
+        skills: ["Angular", "PRIMENG", "javascript", "TailwindCss", "Bootstrap"],
+        logo: leadangel
+    }
  
 ]
 const Slugs = [
