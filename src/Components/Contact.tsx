@@ -39,7 +39,7 @@ const Contact = () => {
 
       try {
         // --- NODEMAILER API INTEGRATION ---
-        const response = await fetch("https://manageinquiry-x1sr0qrz.b4a.run/api/contact", {
+        const response = await fetch("https://node-mailer-2-dmt7.onrender.com/api/contact", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
