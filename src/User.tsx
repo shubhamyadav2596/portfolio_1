@@ -36,7 +36,7 @@ const ProjectInfo = [
         desc: "Task Manager MERN is a full-stack web application built with MongoDB, Express.js, React, and Node.js for organizing and tracking team tasks in one place. It uses JWT-based authentication and role-based access control, with separate dashboards for admin and user roles. Admins can create and assign tasks, manage users, view analytics with charts, and export task reports to Excel; users can view assigned work, update status, and track progress. Each task supports priority levels, due dates, file attachments, a todo checklist, and automatic progress tracking. The frontend is built with React, Redux, Tailwind CSS, and Recharts, while the backend uses Express, Mongoose, and Multer for secure APIs and file uploads. Together, the app delivers a modern, responsive task management experience suited to portfolios, team workflows, or small business use.",
         image: taskmanager,
         live: true,
-        technologies: ["React", "Redux","Tailwind", "PostCSS"],
+        technologies: ["React", "Context", "Tailwind", "mongoDB"],
         link: "https://task-manager-sigma-nine-54.vercel.app/",
         github: "https://github.com/shubhamyadav2596/task-manager-app"
     },
@@ -47,7 +47,7 @@ const ProjectInfo = [
         desc: "ShopNest is a professionally engineered, full-stack MERN e-commerce platform built with modern standard React, Node.js, Express, and MongoDB. The application ensures seamless state management and secure user sessions by combining Redux Toolkit for cart handling with the AuthContext API for JWT authentication. It features a unified Admin Dashboard for comprehensive platform control and personal user profiles that map directly to individual order histories. Product media is securely managed through Cloudinary integration via Multer for seamless image uploads. Complete with fully implemented Razorpay payment processing, ShopNest delivers a robust, end-to-end online shopping experience.",
         image: shopnest,
         live: true,
-        technologies: ["React", "Redux","Tailwind", "PostCSS"],
+        technologies: ["React", "Redux", "Claudinary",, "", "Tailwind", "mongoDB"],
         link: "https://shopnest-liart.vercel.app/",
         github: "https://github.com/shubhamyadav2596/e-commerce_app"
     },
